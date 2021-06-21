@@ -158,4 +158,4 @@ você acabou de clonar !!
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ## Meu whatsapp
-* <a href="https://https://wa.me/message/2C2AT3EHOZNQK1"><img alt="WhatsApp" src="https://img.shields.io/badge/Chat%20Do%20Dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/message/2C2AT3EHOZNQK1"><img alt="WhatsApp" src="https://img.shields.io/badge/Chat%20Do%20Dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
