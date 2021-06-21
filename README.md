@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/DCYtPXp/odc.jpg" width="198" height="198"/>
+<img src="https://www.tactium.com.br/wp-content/uploads/2020/04/tactium-chat-bot.png" width="198" height="198"/>
 </p>
 <p align="center">
 <a href="#"><img title="Selfbot" src="https://img.shields.io/badge/Selfbot-pink?colorB=FF33D4&style=for-the-badge"></a>
