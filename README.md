@@ -29,7 +29,7 @@ você acabou de clonar !!
 > bash install.sh
 ```
 
-### Como iniciar a Sabrina?
+### Como iniciar a Selfbot?
 ```
 > npm start
 ```
@@ -43,7 +43,7 @@ você acabou de clonar !!
 }
 ```
 
-## Recursos Da Sabrina:
+## Recursos Da Selfbot:
 
 | Criador de Figurinhas |                ✅✨           |
 | :-----------: | :--------------------------------: |
@@ -94,7 +94,7 @@ você acabou de clonar !!
 |       ✨        |   Marcar você (@)            |
 |       ✨        |   Mostrar Criador do Grupo            |
 
-| Apenas Dono Sabrina  |                     ✅✨           |
+| Apenas Dono Selfbot  |                     ✅✨           |
 | :-----------: | :--------------------------------: |
 |       ✨        |   Mudar Prefixo                     |
 |       ✨        |   Transmissão                      |
@@ -157,5 +157,5 @@ você acabou de clonar !!
 ## Agradecimentos
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## Grupo no whatsapp
-* <a href="https://chat.whatsapp.com/GLgii3nks3wBKo0MOlYLdu"><img alt="WhatsApp" src="https://img.shields.io/badge/Chat%20Do%20Dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+## Meu whatsapp
+* <a href="https://https://wa.me/message/2C2AT3EHOZNQK1"><img alt="WhatsApp" src="https://img.shields.io/badge/Chat%20Do%20Dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
