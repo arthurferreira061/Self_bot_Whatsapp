@@ -2,22 +2,22 @@
 <img src="https://i.ibb.co/DCYtPXp/odc.jpg" width="198" height="198"/>
 </p>
 <p align="center">
-<a href="#"><img title="SabrinaBOT" src="https://img.shields.io/badge/SabrinaBOT-pink?colorB=FF33D4&style=for-the-badge"></a>
+<a href="#"><img title="Selfbot" src="https://img.shields.io/badge/Selfbot-pink?colorB=FF33D4&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DevGaaab"><img title="Criador" src="https://img.shields.io/badge/Criador-Dev Gabriel-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/cyberteck"><img title="Criador" src="https://img.shields.io/badge/Criador-Dev Maiki-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DevGaaab/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/DevGaaab?color=blue&style=flat-square"></a>
-<a href="https://github.com/DevGaaab/SabrinaBOT/stargazers/"><img title="Estrelas" src="https://img.shields.io/github/stars/DevGaaab/SabrinaBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/DevGaaab/SabrinaBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DevGaaab/SabrinaBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/DevGaaab/SabrinaBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DevGaaab/SabrinaBOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/cyberteck/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/cyberteck?color=blue&style=flat-square"></a>
+<a href="https://github.com/cyberteck/Selfbot/stargazers/"><img title="Estrelas" src="https://img.shields.io/github/stars/cyberteck/SabrinaBOT?color=red&style=flat-square"></a>
+<a href="https://github.com/cyberteck/Selfbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/cyberteck/Selfbot?color=red&style=flat-square"></a>
+<a href="https://github.com/cyberteck/Selfbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/cyberteck/Selfbot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Clone Este Repositório!
 
 ```
-> git clone https://github.com/DevGaaab/SabrinaBOT
+> git clone https://github.com/cyberteck/Selfbot
 ```
 
 ## Instale as dependências:
@@ -25,7 +25,7 @@ Antes de executar o comando abaixo, certifique-se de estar no diretório do proj
 você acabou de clonar !!
 
 ```
-> cd SabrinaBOT
+> cd Selfbot
 > bash install.sh
 ```
 
